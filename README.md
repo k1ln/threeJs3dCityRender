@@ -1,4 +1,4 @@
 - Download and Run index.html
-- Produces Screenshots.
+- Produces 1 Frame.
 - You can activate controls in init function. But only with stroing graphics card! Not on Laptop.
 - In init function change w and h for other resolutions
